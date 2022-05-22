@@ -1,0 +1,4 @@
+name: Crashcommand
+version: '${project.version}'
+main: at.late.crashcommand.Main
+api-version: 1.18
